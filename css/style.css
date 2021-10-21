@@ -2495,10 +2495,10 @@ border-bottom:1px dotted #ccc;
 }
 
 /*----- Google maps -----*/
-#map {
+/* #map {
     height:450px;
     width:100%;
-}
+} */
 
 /*----- Video Popup Section -----*/
 #video-section {
