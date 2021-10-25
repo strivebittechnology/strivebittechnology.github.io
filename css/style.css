@@ -45,8 +45,8 @@ Table of Contents:
 @import "cubeportfolio.min.css"; 
 
 /*----- Fonts -----*/
-@import url(http://fonts.googleapis.com/css?family=Exo:400,700,800,900);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import url(https://fonts.googleapis.com/css?family=Exo:400,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
 @import "simple-line-icons.css";
 @import "ionicons.min.css";
 
@@ -1447,7 +1447,7 @@ nav {
 /*----- Team -----*/
 #team {
     padding-top: 80px;
-    padding-bottom: 65px;
+    padding-bottom: 5px;
 }
 .team-member {
     padding: 10px;
@@ -2052,7 +2052,7 @@ blockquote strong {
 
 /*----- Call To Action 1 -----*/
 #call-to-action-1 {
-    padding-top: 45px;
+    padding-top: 5px;
 	padding-bottom: 53px;
 }
 #call-to-action-1 p {
